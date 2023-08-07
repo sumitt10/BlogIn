@@ -1,0 +1,2 @@
+# BlogIn
+Information Regarding Blogs 
